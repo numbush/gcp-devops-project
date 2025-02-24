@@ -1,1 +1,4 @@
-# gcp-devops-project for gilad - demo 1
+# Docker flask application
+
+- This app is written in python
+- It shall be deployed on GKE
